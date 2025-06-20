@@ -1,6 +1,4 @@
 
-
-```javascript
 const products = [
   {
     name: "iPad Pro 12.9” 2023",
@@ -32,4 +30,3 @@ products.forEach(product => {
   `;
   productList.appendChild(div);
 });
-```
